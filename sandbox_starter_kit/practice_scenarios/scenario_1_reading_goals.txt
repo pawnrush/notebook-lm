@@ -1,0 +1,233 @@
+PRACTICE SCENARIO 1: IEP READING GOAL DEVELOPMENT
+===============================================
+
+**IMPORTANT: This is completely fictional data created for training purposes only. No real students are represented.**
+
+STUDENT BACKGROUND
+==================
+
+Student Profile: Elementary Student C
+Current Grade: 4th Grade
+Age: 9 years, 8 months
+Disability: Specific Learning Disability in Basic Reading Skills
+Current Placement: General education classroom with resource room support
+Previous IEP: Yes, this is an annual review
+
+COMPREHENSIVE ASSESSMENT DATA
+=============================
+
+FORMAL READING ASSESSMENTS (Conducted October 2024)
+===================================================
+
+Woodcock-Johnson IV Tests of Achievement:
+- Letter-Word Identification: Standard Score 78 (7th percentile)
+- Word Attack (nonsense words): Standard Score 72 (3rd percentile)
+- Passage Comprehension: Standard Score 82 (12th percentile)
+- Reading Fluency: Standard Score 75 (5th percentile)
+
+Comprehensive Test of Phonological Processing (CTOPP-2):
+- Phonological Awareness Composite: Standard Score 80 (9th percentile)
+- Phonological Memory Composite: Standard Score 85 (16th percentile)
+- Rapid Symbolic Naming: Standard Score 88 (21st percentile)
+
+CURRICULUM-BASED ASSESSMENTS
+============================
+
+DIBELS 8 (Dynamic Indicators of Basic Early Literacy Skills):
+- Oral Reading Fluency: 42 words correct per minute (4th grade benchmark: 94 WCPM)
+- Accuracy: 91% (meets benchmark)
+- Retell Fluency: 18 words (4th grade benchmark: 37 words)
+
+Reading Level Assessment:
+- Independent reading level: Late 2nd grade (2.8)
+- Instructional reading level: Early 3rd grade (3.2)
+- Frustration level: Mid 3rd grade (3.5)
+
+Phonics Skills Assessment:
+- Single consonants: 100% mastery
+- Consonant blends: 85% mastery
+- Short vowels: 95% mastery
+- Long vowels (CVCe): 70% mastery
+- Vowel teams: 45% mastery
+- R-controlled vowels: 40% mastery
+
+CLASSROOM PERFORMANCE DATA
+==========================
+
+Reading Workshop Performance (September-October):
+- Completes independent reading for 15 minutes (grade expectation: 25 minutes)
+- Selects books at appropriate level with guidance
+- Participates in book discussions with support
+- Demonstrates good listening comprehension during read-alouds
+
+Writing Samples Analysis:
+- Uses phonetic spelling for unfamiliar words
+- Writes 3-4 sentences independently
+- Ideas are clear but limited by spelling difficulties
+- Benefits from word banks and graphic organizers
+
+Daily Reading Data (4-week average):
+- Accuracy during guided reading: 88-92%
+- Self-correction rate: 1:8 (good)
+- Meaning-making strategies: developing
+- Structural analysis skills: emerging
+
+BEHAVIORAL AND SOCIAL OBSERVATIONS
+==================================
+
+Engagement and Motivation:
+- Shows enthusiasm for stories and books
+- Prefers fiction over non-fiction
+- Enjoys being read to
+- Sometimes frustrated during independent reading
+- Responds well to encouragement and praise
+
+Learning Style Preferences:
+- Benefits from visual supports and graphic organizers
+- Learns well in small group settings
+- Needs movement breaks during longer activities
+- Responds to multi-sensory instruction approaches
+
+Social Skills During Reading Activities:
+- Collaborates well with reading partners
+- Shares books and materials appropriately
+- Asks for help when needed
+- Supports struggling peers
+
+PREVIOUS INTERVENTION HISTORY
+============================
+
+Interventions Tried (3rd Grade):
+- Wilson Fundations phonics program (Tier 2)
+- Small group guided reading (4x per week)
+- Repeated reading for fluency
+- Graphic organizers for comprehension
+- Extended time for reading assignments
+
+Response to Previous Interventions:
+- Showed steady progress in phonics skills
+- Improved reading accuracy from 75% to 90%
+- Increased sight word vocabulary by 50 words
+- Reading level improved from 2.2 to 2.8
+- Continued to struggle with reading fluency
+
+CURRENT INSTRUCTIONAL SUPPORTS
+==============================
+
+General Education Classroom:
+- Preferential seating near teacher
+- Access to audio books for content area subjects
+- Extended time for reading assignments
+- Graphic organizers for reading comprehension
+- Partner reading opportunities
+
+Resource Room Services:
+- 30 minutes daily specialized reading instruction
+- Small group setting (3-4 students)
+- Systematic phonics instruction
+- Fluency building activities
+- Comprehension strategy instruction
+
+FAMILY INPUT AND CONCERNS
+=========================
+
+Parent Report:
+- Student enjoys being read to at home
+- Struggles with homework requiring independent reading
+- Shows frustration when reading aloud
+- Prefers audio books and videos for information
+- Family reads together 20 minutes nightly
+
+Parent Goals:
+- Improve reading confidence
+- Increase independent reading ability
+- Better reading fluency
+- Success in grade-level content areas
+
+TEACHER OBSERVATIONS AND CONCERNS
+=================================
+
+General Education Teacher:
+- Student works hard and has a positive attitude
+- Needs significant support for grade-level reading tasks
+- Strong oral language and listening comprehension
+- Benefits from pre-teaching vocabulary
+- Requires modified reading assignments
+
+Special Education Teacher:
+- Shows consistent effort in resource room
+- Responds well to systematic phonics instruction
+- Making steady but slow progress
+- Needs continued intensive intervention
+- Ready for more advanced phonics patterns
+
+STRENGTHS TO BUILD UPON
+=======================
+
+Academic Strengths:
+- Strong oral language skills
+- Good listening comprehension
+- Solid foundation in basic phonics
+- Excellent reading accuracy
+- Motivated to improve
+
+Behavioral/Social Strengths:
+- Positive attitude toward learning
+- Good work habits and effort
+- Collaborates well with peers
+- Accepts help and feedback
+- Persistent when supported
+
+Learning Style Strengths:
+- Responds to visual supports
+- Benefits from multi-sensory instruction
+- Learns well in small groups
+- Uses self-correction strategies
+- Applies learned skills consistently
+
+AREAS REQUIRING CONTINUED SUPPORT
+=================================
+
+Priority Areas:
+1. Reading fluency (rate and prosody)
+2. Advanced phonics patterns (vowel teams, r-controlled)
+3. Reading comprehension strategies
+4. Independent reading stamina
+5. Application of skills to grade-level content
+
+Secondary Areas:
+- Vocabulary development
+- Written expression (spelling)
+- Self-advocacy skills
+- Reading confidence
+
+RECOMMENDED ANNUAL GOALS
+========================
+
+Based on this comprehensive assessment data, the IEP team should consider goals in the following areas:
+
+1. Reading Fluency Goal
+2. Phonics/Decoding Goal  
+3. Reading Comprehension Goal
+
+PRACTICE PROMPTS FOR NOTEBOOKLM
+==============================
+
+Use this scenario data to practice:
+
+1. "Analyze this assessment data to identify the student's primary reading needs and strengths."
+
+2. "Based on this data, create three SMART IEP goals for reading that are appropriate for this student's current performance level."
+
+3. "Suggest evidence-based interventions that would support progress toward these reading goals."
+
+4. "Create a progress monitoring plan for tracking improvement in reading fluency."
+
+5. "Write a present levels of performance statement that summarizes this student's current reading abilities."
+
+6. "Develop talking points for the IEP meeting that highlight both strengths and areas of need."
+
+7. "Suggest accommodations that would support this student's access to grade-level content."
+
+8. "Create a summary for parents that explains their child's reading profile in accessible language."
+
