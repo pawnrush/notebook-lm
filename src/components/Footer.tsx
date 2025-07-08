@@ -90,11 +90,17 @@ const Footer = () => {
         <div className="border-t border-slate-700 mt-8 pt-8 text-center">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-slate-300 mb-4 md:mb-0">
-              <p>&copy; 2025 The Plano Tutor Special Education Training.</p>
+              <p><a href='http://www.planotutor.net'>The Plano Tutor </a> | Special Education Training.</p>
               <p className="text-sm mt-1">Designed for special education professionals who care about ethical AI use.</p>
             </div>
+            <div className="container mx-auto px-4 py-8 text-center">
+  <p className="text-gray-400 text-sm">
+    &copy; {new Date().getFullYear()} NotebookLM Training. All rights reserved.</p>
+  <p className="text-gray-400 text-sm mt-2">
+    Contact me: <a href="mailto:bobby.hillman@pisd.edu" className="text-teal-400 hover:underline">bobby.hillman@pisd.edu</a></p>
+</div>
             <div className="text-slate-300 text-sm">
-              <p>VJuly 2025</p>
+              <p>July 2025</p>
               <p>Human-AI-Human Instructional Model</p>
             </div>
           </div>
