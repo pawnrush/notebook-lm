@@ -90,11 +90,11 @@ const Footer = () => {
         <div className="border-t border-slate-700 mt-8 pt-8 text-center">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-slate-300 mb-4 md:mb-0">
-              <p>&copy; 2025 NotebookLM Special Education Training.</p>
+              <p>&copy; 2025 The Plano Tutor Special Education Training.</p>
               <p className="text-sm mt-1">Designed for special education professionals who care about ethical AI use.</p>
             </div>
             <div className="text-slate-300 text-sm">
-              <p>Version 1.0 • July 2025</p>
+              <p>VJuly 2025</p>
               <p>Human-AI-Human Instructional Model</p>
             </div>
           </div>

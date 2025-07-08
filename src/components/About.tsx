@@ -29,9 +29,9 @@ const About = () => {
           className="bg-gradient-to-r from-blue-600 to-teal-600 text-white rounded-xl p-8 mb-12"
         >
           <div className="text-center">
-            <h2 className="text-3xl font-bold mb-4">Our Mission</h2>
+            <h2 className="text-3xl font-bold mb-4">My Mission</h2>
             <p className="text-xl leading-relaxed max-w-4xl mx-auto">
-              To empower special education teachers with the knowledge, skills, and confidence 
+              To empower special educators with the knowledge, skills, and confidence 
               to use AI tools as powerful assistants while maintaining the human-centered, 
               ethical approach that defines excellent special education practice.
             </p>
@@ -65,7 +65,7 @@ const About = () => {
               </div>
               <h3 className="text-xl font-semibold text-slate-800 mb-4">Human-Centered</h3>
               <p className="text-slate-600">
-                AI enhances your professional expertise—it never replaces it. Your judgment, 
+                AI enhances your professional expertise, it never replaces it. Your judgment, 
                 experience, and relationship with students remain at the center of all decisions.
               </p>
             </div>
@@ -77,7 +77,7 @@ const About = () => {
               <h3 className="text-xl font-semibold text-slate-800 mb-4">Practical Focus</h3>
               <p className="text-slate-600">
                 Every concept is immediately applicable to real special education contexts. 
-                No theoretical fluff—just practical tools you can use tomorrow.
+                No theoretical fluff, just practical tools you can use tomorrow.
               </p>
             </div>
 
@@ -218,7 +218,7 @@ const About = () => {
           
           <div className="mt-8 text-center">
             <p className="text-lg text-slate-700 italic">
-              &quot;AI amplifies human intelligence—it doesn&apos;t replace it. In special education, 
+              &quot;AI amplifies human intelligence, it doesn&apos;t replace it. In special education, 
               the human connection and professional judgment remain irreplaceable.&quot;
             </p>
           </div>
